@@ -15,6 +15,8 @@ objectives:
 - "Finalize the installation using the WordPress GUI."
 keypoints:
 - ""
+start: true
+start_time: 540
 ---
 
 During the previous three episodes, we finished installing our LAMP software stack on our virtual machine. Consequently, in this episode we are now ready to move on to the activity of installing and configuring our WordPress application. The entire procedure will require us to accomplish the following systems administration tasks:  

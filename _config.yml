@@ -67,11 +67,14 @@ episode_order:
   - the-internet
   - the-cloud
   - creating-a-keypair
+  - break
   - create-a-first-virtual-machine
   - create-a-persistent-virtual-machine
   - security-updates
+  - lunch
   - create-a-web-server
   - install-mysql
+  - break
   - install-php
   - SSL-encryption
   - create-a-wordpress-site

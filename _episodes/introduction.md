@@ -15,7 +15,7 @@ objectives:
 - "Ensure everyone has their environments setup."
 
 start: true
-start_time: 0
+start_time: 540
 ---
 
 ## Introductions

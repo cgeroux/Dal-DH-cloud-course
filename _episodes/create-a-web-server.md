@@ -1,7 +1,7 @@
 ---
 layout: episode
 title: "Creating a web server"
-teaching: 30
+teaching: 35
 exercises: 0
 questions:
 - "What is Apache?"
