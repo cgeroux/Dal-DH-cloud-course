@@ -1,7 +1,7 @@
 ---
 layout: episode
 title: "Installing OpenStack CL client"
-teaching: 15
+teaching: 20
 exercises: 0
 questions:
 - "Why use OpenStacks command line client?"

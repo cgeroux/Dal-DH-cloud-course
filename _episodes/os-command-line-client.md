@@ -1,8 +1,8 @@
 ---
 layout: episode
 title: "Using the OpenStack CL client"
-teaching: 45
-exercises: 15
+teaching: 55
+exercises: 20
 questions:
 - "How do we see what OpenStack CL commands are available?"
 - "How can we find out how to use OpenStack CL commands?"

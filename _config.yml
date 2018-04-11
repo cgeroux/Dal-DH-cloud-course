@@ -79,14 +79,15 @@ episode_order:
   - SSL-encryption
   - create-a-wordpress-site
   - os-command-line-setup
+  - break
   - os-command-line-client
+  - lunch
   - intro-to-cloud-init
   - bash-cloud-init
   - yaml-syntax
+  - break
   - wo-cloud-init
   - heat
-  - break
-  - lunch
   
 # Turn off built-in syntax highlighting.
 highlighter: false
