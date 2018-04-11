@@ -87,7 +87,8 @@ episode_order:
   - yaml-syntax
   - break
   - wo-cloud-init
-  - heat
+  - using-hots
+  - creating-hots
   
 # Turn off built-in syntax highlighting.
 highlighter: false
