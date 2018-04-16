@@ -593,4 +593,5 @@ $ openstack image create --file chris-geroux-persistent-june-6-2017.qcow2 --disk
 > ## Verify your uploaded image
 > Try creating a VM from your image and log into it. Have a look around the file system, specifically look in `/etc/www/html` to see if your website files are there.
 > 
+>>>>>>> b8bb758e41364ff072756f5452f73c1a946ddfd4
 {: .challenge}
