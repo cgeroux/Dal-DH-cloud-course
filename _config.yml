@@ -67,25 +67,25 @@ episode_order:
   - the-internet
   - the-cloud
   - creating-a-keypair
-  - break
+  - break-0
   - create-a-first-virtual-machine
   - create-a-persistent-virtual-machine
   - security-updates
-  - lunch
+  - lunch-0
   - create-a-web-server
   - install-mysql
-  - break
+  - break-1
   - install-php
   - SSL-encryption
   - create-a-wordpress-site
   - os-command-line-setup
-  - break
+  - break-2
   - os-command-line-client
-  - lunch
+  - lunch-1
   - intro-to-cloud-init
   - bash-cloud-init
   - yaml-syntax
-  - break
+  - break-3
   - wo-cloud-init
   - using-hots
   
