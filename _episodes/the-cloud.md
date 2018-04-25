@@ -1,7 +1,7 @@
 ---
 layout: episode
 title: "Introduction to cloud computing"
-teaching: 30
+teaching: 25
 exercises: 5
 questions:
 - "What is a cloud?"
